@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+
+# Environment variables (TOKENni yashirish uchun)
+.env
+.env.local
+
+# Downloaded media files (bot yuklagan vaqtinchalik fayllar)
+*_*.mp4
+*_*.mp3
+*_*.m4a
+*_*.webm
+*_*.mkv
+*.tmp
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
